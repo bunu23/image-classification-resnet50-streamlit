@@ -41,9 +41,6 @@ This project aims to develop a robust image classification system using the ResN
 
 The dataset consists of images organized into training, validation, and test sets, stored in a structured directory format essential for data loading and augmentation using TensorFlow's ImageDataGenerator.
 
-![Test Data Distribution](chart1.png)
-![Train Data Distribution](chart2.png)
-
 ### Data Preparation
 
 Effective data preparation involves image preprocessing and augmentation to improve the model's generalization capabilities. Images are resized to 224x224 pixels and normalized. Data augmentation techniques include horizontal flipping, zooming, shifting, shearing, and rotation.
@@ -70,7 +67,11 @@ The model's performance is evaluated on the test set, with metrics such as loss 
 
 Plots showcasing the model's accuracy and loss are included, along with an analysis of class distribution and potential biases.
 
+![Test Data Distribution](chart1.png)
+![Train Data Distribution](chart2.png)
 ![External Predication](externalpredication.png)
+![Interface Classification](interface.png)
+![Interface Gen](interface1.png)
 
 ## Integration with Streamlit Application
 
@@ -106,20 +107,6 @@ Using open-source libraries and tools ensures no direct costs, making the projec
 
 The project acknowledges longer processing times due to computational demands but remains feasible within typical development timelines.
 
-## Code Examples
-
-### Image Classification Process Code
-
-Key parts of the code related to image classification are provided, showcasing the implementation details.
-
-### Streamlit Integration Code
-
-Snippets of the code responsible for integrating the model with Streamlit are included, demonstrating the application's functionality.
-
-### Results / Visualizations
-
-Links to or embedded visualizations and results from the project are provided, illustrating the model's performance and insights.
-
 ## Conclusion
 
 This project demonstrates the potential of deep learning and generative AI in developing robust image classification systems. The combined approach of using transfer learning, data augmentation, and an interactive AI-powered application highlights the project's technical rigor and practical value.
@@ -131,6 +118,7 @@ Potential enhancements include exploring additional pretrained models, expanding
 ## Acknowledgements
 
 https://www.tensorflow.org/
+
 https://arxiv.org/pdf/1512.03385
 https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
 https://www.kaggle.com
