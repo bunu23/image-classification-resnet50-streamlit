@@ -70,7 +70,7 @@ The model's performance is evaluated on the test set, with metrics such as loss 
 
 Plots showcasing the model's accuracy and loss are included, along with an analysis of class distribution and potential biases.
 
-![External Predication](image-classification-with-gen-insight/externalpredication.png)
+![External Predication](externalpredication.png)
 
 ## Integration with Streamlit Application
 
