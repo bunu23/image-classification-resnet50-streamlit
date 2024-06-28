@@ -1,6 +1,4 @@
-Here's a professional, graduate-level README.md for your GitHub portfolio project:
-
----
+# Convolutional Neural Network
 
 # Image Classification Project using ResNet50 and Streamlit
 
