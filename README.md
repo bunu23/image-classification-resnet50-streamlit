@@ -118,7 +118,9 @@ Potential enhancements include exploring additional pretrained models, expanding
 https://www.tensorflow.org/
 
 https://arxiv.org/pdf/1512.03385
-https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
+
 https://www.kaggle.com
+
 https://cloud.google.com/ai/generative-ai
+
 https://streamlit.io/
